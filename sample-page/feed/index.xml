@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Sample Page	</title>
 	<atom:link href="https://newstechtimesa.vercel.app/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://newstechtimesa.vercel.app/</link>
+	<link>https://newstechtimesa.vercel.app/sample-page/</link>
 	<description>News</description>
 	<lastBuildDate>Sun, 18 Sep 2022 19:25:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
